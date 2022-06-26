@@ -1,2 +1,2 @@
 # combohrenovke.github.io
-yes
+Repository for my website
